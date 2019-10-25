@@ -1,6 +1,7 @@
 # E08b-Adding-Tiles
 
 I continued working from the last assignment, E08a-Paddle Ball. On Cavas, there was a repository for the second part of the assignment. I forked and cloned the given repository on Canvas. I opened the file on Godot. For this assignment, I added another node representing node and child nodes representing the tiles in different colors, such as gray and red. I also added some tiles with different colors in 5 rows. While I was working on adding the tiles, I used the following code: 
+
 var gray = preload("res://Assets/tile_gray.png")
 var red = preload("res://Assets/tile_red.png")
 var blue = preload("res://Assets/tile_blue.png")
